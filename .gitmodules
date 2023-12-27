@@ -1,0 +1,3 @@
+[submodule "themes/paleoserene"]
+	path = themes/paleoserene
+	url = git@github.com:rachelsfba/paleoserene.git

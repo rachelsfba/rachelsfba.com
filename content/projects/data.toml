@@ -1,0 +1,15 @@
+[[project]]
+name = "rachelsfba.com"
+desc = "The source code behind this website, built using the Zola static site generator."
+links = [
+	{name = "GitHub", url = "https://github.com/rachelsfba/rachelsfba.com"},
+	{name = "Zola", url = "https://www.getzola.org/"},
+	{name = "Paleoserene theme for Zola", url = "https://github.com/rachelsfba/paleoserene"}
+]
+
+[[project]]
+name = "dotfiles"
+desc = "My personal GNU/Linux dotfiles"
+links = [
+	{name = "GitHub", url = "https://github.com/rachelsfba/dotfiles"},
+]
