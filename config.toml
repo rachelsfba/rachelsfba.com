@@ -3,8 +3,8 @@
 #=========================================================================================
 
 base_url = "https://rachelsfba.com" # The domain of your site
-title = "Rachel Shaw | Site Reliability Engineer"
-description = "SRE and South Bay urbanism"
+title = "Rachel Shaw | Platform Engineer"
+description = "Rachel Shaw is a platform engineer and urbanist in the San Francisco Bay Area"
 default_language = "en"
 theme = "paleoserene"
 output_dir = "public"
