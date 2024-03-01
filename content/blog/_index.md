@@ -1,6 +1,6 @@
 +++
 title = "Blog - Rachel Shaw - rachelsfba.com"
-description = "My personal blog on a variety of personal interests."
+description = "My personal blog on a variety of interests."
 sort_by = "date"
 template = "blog.html"
 page_template = "post.html"

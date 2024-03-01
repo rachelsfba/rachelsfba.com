@@ -41,6 +41,7 @@ bio = "she/her/hers"                   # Your bio
 avatar = "img/headshot.jpg"            # Your avatar
 
 show_id = true                   # Whether to show your id in homepage
+show_blog = false                # Whether to show blog
 show_projects = true             # Whether to show projects page
 
 #============== Icons, you can choose at https://remixicon.com/ ====
