@@ -37,7 +37,13 @@ anchors = "on"
 [extra]
 name = "Rachel Shaw"                   # Your name
 id = "rachelsfba"                      # Your id/username/handle
-bio = "she/her/hers"                   # Your bio
+
+# Your bio
+bio = """
+Pronouns: [she/her or they/them](https://en.pronouns.page/she%26they)
+
+San Francisco Bay Area, California
+""" 
 avatar = "img/headshot.jpg"            # Your avatar
 
 show_id = true                   # Whether to show your id in homepage
