@@ -61,7 +61,6 @@ toc_icon = "ri-menu-2-line"
 links = [
     {name = "Résumé", icon = "ri-profile-line", url = "https://rachelsfba.com/files/resume.pdf"},
     {name = "GitHub", icon = "ri-github-line", url = "https://github.com/rachelsfba"},
-    {name = "Mastodon", icon = "ri-mastodon-line", url = "https://sfba.social/@rachelshaw", rel = "noopener me"},
     # {name = "Twitter", icon = "ri-twitter-line", url = "https://twitter.com/<your-username>"},
     # {name = "Email", icon = "ri-mail-line", url = "mailto:<your-email-address>"}
     # You can add more links
