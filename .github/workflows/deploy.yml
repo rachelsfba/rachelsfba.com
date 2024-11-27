@@ -57,7 +57,7 @@ jobs:
 
 env: 
   # Specify the zola version you want to use here
-  ZOLA_VERSION: v0.18.0
+  ZOLA_VERSION: v0.19.2
   # Destination hostname
   DEST_HOST: rachelsfba.com
   # Destination directory
