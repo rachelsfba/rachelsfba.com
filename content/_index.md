@@ -5,6 +5,7 @@ template = 'home.html'
 lang = 'en'
 +++
 
-Hi, I'm Rachel.  I am a platform engineer (3+ YOE) based out of the beautiful
-San Francisco Bay Area, and am **currently looking for SRE work**!  For contact info, please
-check out the icons above.  Thanks!
+I am currently a [Production Engineer](https://www.metacareers.com/areas-of-work/pe/) at [Meta](https://about.meta.com/) in the beautiful
+San Francisco Bay Area.
+
+If you'd like to get in touch, please check out the icons above.  Thanks!

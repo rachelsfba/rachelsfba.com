@@ -3,8 +3,8 @@
 #=========================================================================================
 
 base_url = "https://rachelsfba.com" # The domain of your site
-title = "Rachel Shaw | Platform Engineer"
-description = "Rachel Shaw is a platform engineer and urbanist in the San Francisco Bay Area"
+title = "Rachel Shaw | Production Engineer"
+description = "Rachel Shaw is a production engineer and urbanist in the San Francisco Bay Area"
 default_language = "en"
 theme = "paleoserene"
 output_dir = "public"
@@ -44,7 +44,7 @@ id = "rachelsfba"                      # Your id/username/handle
 bio = """
 Pronouns: [she/her or they/them](https://en.pronouns.page/she%26they)
 
-San Francisco Bay Area, California
+San José, California
 """ 
 avatar = "img/headshot.jpg"            # Your avatar
 
